@@ -1,5 +1,4 @@
 ﻿using BlaisePascal.Esercizio2.Domain;
-using BlaisePascal.Exercise2.Domain;
 public class Program
 {
     public static void Main(string[] args)
